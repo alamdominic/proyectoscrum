@@ -17,12 +17,13 @@
 
 ## Diseño - Rebeca
 1. Diseño de la estructura del blog: menú de navegación, página de inicio, secciones de juegos.
+    #Comentario: se definió una estructura clara para facilitar la navegación del usuario, priorizando el acceso rápido a las secciones más importantes. El menú fue organizado pensando en una jerarquía lógica de contenido y facilidad de uso tanto en computadoras como en dispositivos móviles.
 2. Bocetos o wireframes de la interfaz.
-    Comentario: Se realizaron bocetos iniciales en papel para visualizar la disposición de los elementos. Hay que validar ideas de diseños aprobadas por todo el equipo. 
+    #Comentario: Se realizaron bocetos iniciales en papel para visualizar la disposición de los elementos. Hay que validar ideas de diseños aprobadas por todo el equipo. 
 3. Elección del estilo visual: colores, tipografía, íconos, etc.
-    Comentario: Se optó por colores vibrantes para resaltar la identidad del blog, así como una tipografía legible buscando una experiencia atractiva sin saturar al usuario.
+    #Comentario: Se optó por colores vibrantes para resaltar la identidad del blog, así como una tipografía legible buscando una experiencia atractiva sin saturar al usuario.
 4. Plan de experiencia de usuario (UX) y diseño adaptable (responsive design).
-    Comentario: Se diseño la expperiencia al usuario en base a la simplicidad y accesibilidad Se consideraron puntos clave de interacción para que la navegación del usuario sea fluida.
+    #Comentario: Se diseño la expperiencia al usuario en base a la simplicidad y accesibilidad Se consideraron puntos clave de interacción para que la navegación del usuario sea fluida.
 
 ## Implementación 
 1. Crear un prototipo #Vamos a crear un prototipo para poder verificar que se matiene y que se desecha. 
