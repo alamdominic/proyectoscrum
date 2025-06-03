@@ -25,6 +25,7 @@
 4. Plan de experiencia de usuario (UX) y diseño adaptable (responsive design).
     Comentario: Se diseño la expperiencia al usuario en base a la simplicidad y accesibilidad Se consideraron puntos clave de interacción para que la navegación del usuario sea fluida.
 
+<<<<<<< HEAD
 
 ## Implementación - Gisella
 1. Crear un prototipo
@@ -33,6 +34,15 @@
 4. Desarrollo del blog usando tecnologías web (HTML, CSS, JavaScript, CMS como WordPress o similar).
 5. Creación de las primeras entradas y carga de contenido inicial.
 6. Integración de funciones como buscador, etiquetas y botones para compartir en redes sociales.
+=======
+## Implementación 
+1. Crear un prototipo #Vamos a crear un prototipo para poder verificar que se matiene y que se desecha. 
+2. Utilizar herramientas como Java Script, CSS, HTML, herramientas gratuitas #Nos ayudaremos de herramientas gratuitas par ano generar mas costos
+3. Definir que lenguaje se ocupará # se verificara que lenguaje se usara para que sea mas eficiente pero que aun asi cumpla con los requrimientos por parte de diseño. 
+4. Desarrollo del blog usando tecnologías web (HTML, CSS, JavaScript, CMS como WordPress o similar). #Se verificara que tipo de tecnologia usaremos para el blog. 
+5. Creación de las primeras entradas y carga de contenido inicial.#Se inicaria con las entraas para verificar el funcionamiento. 
+6. Integración de funciones como buscador, etiquetas y botones para compartir en redes sociales.#Se comenzara a gregar las mejoras como son las funciones. 
+>>>>>>> 3f81fbe (Comentarios en Implementacion)
 
 ## Pruebas e Integración - Celeste
 1. Revisión funcional: que cada botón, link y filtro funcione correctamente. #Se están verificando los botones y enlaces del sitio; falta validar los filtros con diferentes combinaciones de usuario.
@@ -41,8 +51,13 @@
 4. Verificar funcionamiento de la página y los juegos #Pendiente comprobar que los juegos sean accesibles, funcionales y sin errores en pantalla.
 5. Asegurar la experiencia del usuario #Pendiente a evaluar la facilidad de uso para el usuario, falta realizar la prueba con un usuario externo.
 
+<<<<<<< HEAD
 ## Mantenimiento - Alam, Rebeca, Gisella, Celeste
 1. Actualización constante del contenido (nuevos juegos, reseñas, artículos).
+=======
+## Mantenimiento
+1. Actualización constante del contenido (nuevos juegos, reseñas, artículos).#Se realizaran actualizaciones constantes para mejorar el rendimiento y la funionaliad. 
+>>>>>>> 3f81fbe (Comentarios en Implementacion)
 2. Revisión del rendimiento del sitio y mejora continua.
 3. Corrección de errores técnicos y respuesta a comentarios de usuarios.
 4. Posibles expansiones como foros, rankings o integración de videos.
